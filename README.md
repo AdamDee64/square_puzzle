@@ -2,7 +2,7 @@ A fun little numbers and logic game<br>
 (in progress)<br>
 
 <picture>
- <img alt="SCREENSHOT" src="screen.png">
+ <img alt="SCREENSHOT" src="res/screen.png">
 </picture>
 
 Rules:<br>
